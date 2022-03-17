@@ -1,0 +1,85 @@
+# Translation of Plugins - VK Block Patterns - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - VK Block Patterns - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-24 05:57:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - VK Block Patterns - Stable (latest release)\n"
+
+#: vk-block-patterns.php:55
+msgid "Setting"
+msgstr "設定"
+
+#: inc/vk-admin/package/class-vk-admin.php:347
+msgid "Vektor WordPress Information"
+msgstr "Vektor WordPress Information"
+
+#: inc/vk-admin/package/class-vk-admin.php:293
+msgid "Sorry, there is no post"
+msgstr "投稿がありません"
+
+#: admin/admin-role.php:26
+msgid "Administrator only"
+msgstr "管理者のみ"
+
+#: admin/admin-role.php:22
+msgid "Editor or higher"
+msgstr "編集者以上"
+
+#: admin/admin-role.php:18
+msgid "Author or higher"
+msgstr "投稿者以上"
+
+#: admin/admin-role.php:14
+msgid "Contributor or higher"
+msgstr "寄稿者以上"
+
+#: admin/admin-role.php:32 admin/admin.php:61
+msgid "Role Setting"
+msgstr "権限設定"
+
+#: admin/admin.php:56
+msgid "Block Patterns Setting"
+msgstr "Block Patterns 設定"
+
+#: admin/admin.php:40
+msgctxt "label in admin menu"
+msgid "Block Patterns"
+msgstr "Block Patterns"
+
+#: admin/admin.php:39
+msgid "Block Patterns setting"
+msgstr "Block Patterns 設定"
+
+#: inc/vk-block-patterns/package/class-vk-block-patterns.php:55
+msgid "Category"
+msgstr "カテゴリー"
+
+#: inc/vk-block-patterns/package/class-vk-block-patterns.php:36
+msgid "Block Patterns"
+msgstr "ブロックパターン"
+
+#. Author URI of the plugin
+msgid "https://vektor-inc.co.jp"
+msgstr "https://vektor-inc.co.jp"
+
+#. Author of the plugin
+msgid "Vektor,Inc."
+msgstr "Vektor,Inc."
+
+#. Description of the plugin
+msgid "You can make and register your original custom block patterns."
+msgstr "独自のブロックパターンを作成して登録する事ができます。"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/vektor-inc/vk-block-patterns"
+msgstr "https://github.com/vektor-inc/vk-block-patterns"
+
+#. Plugin Name of the plugin
+msgid "VK Block Patterns"
+msgstr "VK Block Patterns"
